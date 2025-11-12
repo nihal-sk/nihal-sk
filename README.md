@@ -98,9 +98,9 @@ SOC Engineer building an AI-based receipt-management prototype for Google Wallet
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kammarnihal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kammarnihal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nihal-sk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nihal-sk&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kammarnihal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nihal-sk&icon=0&color=0)](https://visitcount.itsvg.in)
 
