@@ -1,7 +1,7 @@
-<p align="center"size=20">    
+<p align="center"size=35">    
     👋 Hi there, I'm  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=30&color=39FF14&center=true&vcenter&width=680&lines=Nihal+S+Kammar;Cybersecurity+Engineer;Threat+Hunter+%26+SOC+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&pause=30&color=39FF14&center=true&vcenter&width=680&lines=Nihal+S+Kammar;Cybersecurity+Engineer;Threat+Hunter+%26+SOC+Analyst" />
 </p>
 
 
