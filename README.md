@@ -1,7 +1,7 @@
 <p align="center"size=20">    
     👋 Hi there, I'm  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=40&color=39FF14&center=true&vcenter&width=680&lines=Nihal+S+Kammar;Cybersecurity+Engineer;Threat+Hunter+%26+SOC+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=30&color=39FF14&center=true&vcenter&width=680&lines=Nihal+S+Kammar;Cybersecurity+Engineer;Threat+Hunter+%26+SOC+Analyst" />
 </p>
 
 
@@ -47,6 +47,10 @@ SOC Engineer building an AI-based receipt-management prototype for Google Wallet
 
 # 💻 Tech Stack:
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nihal-sk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nihal-sk&theme=dark&hide_border=false)<br/>
 
 ## 🛠️ Technologies & Tools
 
@@ -95,11 +99,6 @@ SOC Engineer building an AI-based receipt-management prototype for Google Wallet
 - **Steganography & Cryptography** — Steghide; AES/RSA using Python + OpenSSL
 
 ---
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nihal-sk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nihal-sk&theme=dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nihal-sk&icon=0&color=0)](https://visitcount.itsvg.in)
